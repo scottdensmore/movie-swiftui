@@ -1,4 +1,4 @@
-[![CI](https://github.com/scottdensmore/MovieSwiftUI/actions/workflows/xcodebuild.yml/badge.svg?branch=main)](https://github.com/scottdensmore/MovieSwiftUI/actions/workflows/xcodebuild.yml)
+[![CI](https://github.com/scottdensmore/movie-swiftui/actions/workflows/xcodebuild.yml/badge.svg?branch=main)](https://github.com/scottdensmore/movie-swiftui/actions/workflows/xcodebuild.yml)
 
 # MovieSwiftUI
 
@@ -322,7 +322,7 @@ shared bundled one):
 ### File a useful bug report
 
 Open an issue at
-<https://github.com/scottdensmore/MovieSwiftUI/issues/new>. The maintainer
+<https://github.com/scottdensmore/movie-swiftui/issues/new>. The maintainer
 can act on a report in roughly the time it takes to read it when it contains:
 
 - **What you did** — the minimal sequence of taps. e.g. *"Launched on
